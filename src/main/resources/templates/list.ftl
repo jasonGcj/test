@@ -13,7 +13,7 @@
    <table>
        <tr>
            <td><input type="button" value="全选" onclick="qx()"></td>
-           <td>编号</td>
+           <td>007</td>
            <td>郑翼佳</td>
            <td>年龄</td>
            <td>日期</td>
