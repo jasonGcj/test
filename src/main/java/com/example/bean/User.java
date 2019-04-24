@@ -12,6 +12,8 @@ public class User {
     private String date;
     private int pid;
     private String pname;
+    private String str;
+
 
     public int getUid() {
         return uid;
